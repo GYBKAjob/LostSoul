@@ -52,5 +52,4 @@
             android:textColor="@color/kakih"
             android:textSize="50sp"/>
     </LinearLayout>
-
 </RelativeLayout>
