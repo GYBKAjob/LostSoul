@@ -8,6 +8,7 @@
         <entry key="..\:/LostSoul/app/src/main/res/drawable/style_btn_stroke_black95_press_white.xml" value="0.1325" />
         <entry key="..\:/LostSoul/app/src/main/res/layout/1.xml" value="0.22" />
         <entry key="..\:/LostSoul/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/LostSoul/app/src/main/res/layout/gamelevel0.xml" value="0.25" />
         <entry key="..\:/LostSoul/app/src/main/res/layout/gamelevel1.xml" value="0.1" />
         <entry key="..\:/LostSoul/app/src/main/res/layout/gamelevel10.xml" value="0.22760416666666666" />
         <entry key="..\:/LostSoul/app/src/main/res/layout/gamelevel12.xml" value="0.1" />
@@ -32,7 +33,7 @@
         <entry key="..\:/LostSoul/app/src/main/res/layout/gamelevelsmert12.xml" value="0.2265625" />
         <entry key="..\:/LostSoul/app/src/main/res/layout/gamelevelsmert2.xml" value="0.26581508515815083" />
         <entry key="..\:/LostSoul/app/src/main/res/layout/gamelevelsmert3.xml" value="0.22760416666666666" />
-        <entry key="..\:/LostSoul/app/src/main/res/layout/gamelevelwin.xml" value="0.1" />
+        <entry key="..\:/LostSoul/app/src/main/res/layout/gamelevelwin.xml" value="0.25" />
         <entry key="..\:/LostSoul/app/src/main/res/layout/gamelevelwin1.xml" value="0.26581508515815083" />
         <entry key="..\:/LostSoul/app/src/main/res/layout/ganelevelwin1.xml" value="0.22760416666666666" />
         <entry key="..\:/LostSoul/app/src/main/res/layout/level3.xml" value="0.27717391304347827" />

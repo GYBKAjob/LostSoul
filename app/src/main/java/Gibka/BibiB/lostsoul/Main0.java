@@ -28,7 +28,7 @@ public class Main0 extends AppCompatActivity implements View.OnClickListener{
             @Override
             public void onClick(View v) {
                 try {
-                    Intent intent = new Intent(Main0.this, GameLevel1.class);
+                    Intent intent = new Intent(Main0.this, MainActivity.class);
                     startActivity(intent);finish();
                 }catch (Exception e){
 
@@ -92,7 +92,7 @@ public class Main0 extends AppCompatActivity implements View.OnClickListener{
             @Override
             public void onClick(View v) {
                 try {
-                    Intent intent = new Intent(Main0.this, GameLevel1.class);
+                    Intent intent = new Intent(Main0.this,MainActivity.class);
                     startActivity(intent);finish();
                 }catch (Exception e){
 
