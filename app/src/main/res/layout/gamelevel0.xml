@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:background="@drawable/gamelevel1"
+        android:id="@+id/game" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:padding="10dp"
+        android:textColor="@color/black95"
+        android:orientation="horizontal"
+        android:id="@+id/lin">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="260dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:padding="10dp"
+        android:textColor="@color/black95"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Очнувшись в каком-то подзмелии, я не понимал как я тут оказался но был уверен что надо поскорее выбираться отсюда. Оглядев небольшое помещение в котором я был, я увидел дверь. Думаю мне туда"
+            android:fontFamily="@font/volja"
+            android:textColor="@color/kakih"
+            android:id="@+id/t"
+            android:textSize="20sp"/>
+
+    </LinearLayout>
+
+</RelativeLayout>
